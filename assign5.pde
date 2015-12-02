@@ -542,7 +542,7 @@ int closeEnemy(float x, float y, int enemyNum)
       closestEnemy = i;
     }
   }
-  println(closestEnemy);
+  //println(closestEnemy);
   return closestEnemy;
   
 
